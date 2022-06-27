@@ -4,7 +4,7 @@
       <router-link to="/portfolio">portfoilo</router-link>
     </div>
     <div className="header__logo">
-      <router-link to="/">webstroyboy</router-link>
+      <router-link to="/">Harry Vue</router-link>
     </div>
     <nav className="header__menu">
       <ul>
