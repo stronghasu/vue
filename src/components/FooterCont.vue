@@ -2,11 +2,11 @@
   <footer id="footer">
     <div>
       <h4>email</h4>
-      <a href="mailto:webstroyboy@naver.com">tkznfk900@naver.com</a>
+      <a href="mailto:tkznfk900@naver.com">tkznfk900@naver.com</a>
     </div>
     <div>
       <h4>Kakao</h4>
-      <a href="/">webstupis</a>
+      <a href="/">tkznfk099</a>
     </div>
     <div>
       <h4>social</h4>
